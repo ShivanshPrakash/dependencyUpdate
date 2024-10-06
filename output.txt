@@ -1,0 +1,422 @@
+amazonpay:silentpay-jetified:1.3.0 -> NOT FOUND
+androidx.activity:activity-compose:1.3.0 -> NOT FOUND
+androidx.activity:activity-compose:1.7.0 -> NOT FOUND
+androidx.activity:activity-ktx:1.7.0 -> NOT FOUND
+androidx.activity:activity:1.5.1 -> NOT FOUND
+androidx.activity:activity:1.7.0 -> NOT FOUND
+androidx.ads:ads-identifier-common:1.0.0-alpha04 -> NOT FOUND
+androidx.ads:ads-identifier:1.0.0-alpha04 -> NOT FOUND
+androidx.annotation:annotation-experimental:1.1.0 -> NOT FOUND
+androidx.annotation:annotation-experimental:1.3.0 -> NOT FOUND
+androidx.annotation:annotation-jvm:1.6.0 -> NOT FOUND
+androidx.annotation:annotation:1.0.0 -> NOT FOUND
+androidx.annotation:annotation:1.2.0 -> NOT FOUND
+androidx.annotation:annotation:1.3.0 -> NOT FOUND
+androidx.annotation:annotation:1.6.0 -> NOT FOUND
+androidx.appcompat:appcompat-resources:1.5.1 -> NOT FOUND
+androidx.appcompat:appcompat:1.5.1 -> NOT FOUND
+androidx.appcompat:appcompat:reject -> NOT FOUND
+androidx.arch.core:core-common:2.1.0 -> NOT FOUND
+androidx.arch.core:core-common:2.2.0 -> NOT FOUND
+androidx.arch.core:core-runtime:2.0.0 -> NOT FOUND
+androidx.arch.core:core-runtime:2.1.0 -> NOT FOUND
+androidx.arch.core:core-runtime:2.2.0 -> NOT FOUND
+androidx.arch.core:core-testing:2.1.0 -> NOT FOUND
+androidx.asynclayoutinflater:asynclayoutinflater:1.0.0 -> NOT FOUND
+androidx.autofill:autofill:1.1.0 -> NOT FOUND
+androidx.browser:browser:1.0.0 -> NOT FOUND
+androidx.cardview:cardview:1.0.0 -> NOT FOUND
+androidx.collection:collection-ktx:1.1.0 -> NOT FOUND
+androidx.collection:collection:1.1.0 -> NOT FOUND
+androidx.collection:collection:1.2.0 -> NOT FOUND
+androidx.compose.animation:animation-android:1.5.4 -> NOT FOUND
+androidx.compose.animation:animation-core-android:1.5.4 -> NOT FOUND
+androidx.compose.animation:animation-core:1.1.1 -> NOT FOUND
+androidx.compose.animation:animation-core:1.5.4 -> NOT FOUND
+androidx.compose.animation:animation:1.1.1 -> NOT FOUND
+androidx.compose.animation:animation:1.5.4 -> NOT FOUND
+androidx.compose.compiler:compiler:1.5.3 -> NOT FOUND
+androidx.compose.compiler:compiler:1.5.6 -> NOT FOUND
+androidx.compose.foundation:foundation-android:1.5.4 -> NOT FOUND
+androidx.compose.foundation:foundation-layout-android:1.5.4 -> NOT FOUND
+androidx.compose.foundation:foundation-layout:1.0.0 -> NOT FOUND
+androidx.compose.foundation:foundation-layout:1.5.4 -> NOT FOUND
+androidx.compose.foundation:foundation:1.1.1 -> NOT FOUND
+androidx.compose.foundation:foundation:1.5.4 -> NOT FOUND
+androidx.compose.material:material-android:1.5.4 -> NOT FOUND
+androidx.compose.material:material-icons-core-android:1.5.4 -> NOT FOUND
+androidx.compose.material:material-icons-core:1.5.4 -> NOT FOUND
+androidx.compose.material:material-ripple-android:1.5.4 -> NOT FOUND
+androidx.compose.material:material-ripple:1.5.4 -> NOT FOUND
+androidx.compose.material:material:1.5.4 -> NOT FOUND
+androidx.compose.runtime:runtime-android:1.5.4 -> NOT FOUND
+androidx.compose.runtime:runtime-livedata:1.5.4 -> NOT FOUND
+androidx.compose.runtime:runtime-saveable-android:1.5.4 -> NOT FOUND
+androidx.compose.runtime:runtime-saveable:1.1.1 -> NOT FOUND
+androidx.compose.runtime:runtime-saveable:1.5.4 -> NOT FOUND
+androidx.compose.runtime:runtime:1.1.1 -> NOT FOUND
+androidx.compose.runtime:runtime:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-geometry-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-geometry:1.1.1 -> NOT FOUND
+androidx.compose.ui:ui-geometry:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-graphics-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-graphics:1.1.1 -> NOT FOUND
+androidx.compose.ui:ui-graphics:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-text-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-text:1.1.1 -> NOT FOUND
+androidx.compose.ui:ui-text:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-tooling-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-tooling-data-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-tooling-data:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-tooling-preview-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-tooling-preview:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-tooling:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-unit-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-unit:1.1.1 -> NOT FOUND
+androidx.compose.ui:ui-unit:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-util-android:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui-util:1.5.4 -> NOT FOUND
+androidx.compose.ui:ui:1.1.1 -> NOT FOUND
+androidx.compose.ui:ui:1.5.4 -> NOT FOUND
+androidx.concurrent:concurrent-futures:1.1.0 -> NOT FOUND
+androidx.constraintlayout:constraintlayout-compose:1.0.0 -> NOT FOUND
+androidx.constraintlayout:constraintlayout-core:1.0.4 -> NOT FOUND
+androidx.constraintlayout:constraintlayout-solver:2.0.1 -> NOT FOUND
+androidx.constraintlayout:constraintlayout:2.0.1 -> NOT FOUND
+androidx.constraintlayout:constraintlayout:2.1.4 -> NOT FOUND
+androidx.coordinatorlayout:coordinatorlayout:1.0.0 -> NOT FOUND
+androidx.coordinatorlayout:coordinatorlayout:1.1.0 -> NOT FOUND
+androidx.core:core-ktx:1.10.0 -> NOT FOUND
+androidx.core:core-ktx:1.2.0 -> NOT FOUND
+androidx.core:core-ktx:1.6.0 -> NOT FOUND
+androidx.core:core-ktx:1.9.0 -> NOT FOUND
+androidx.core:core-splashscreen:1.0.0 -> NOT FOUND
+androidx.core:core:1.10.0 -> NOT FOUND
+androidx.core:core:1.8.0 -> NOT FOUND
+androidx.core:core:1.9.0 -> NOT FOUND
+androidx.cursoradapter:cursoradapter:1.0.0 -> NOT FOUND
+androidx.customview:customview-poolingcontainer:1.0.0 -> NOT FOUND
+androidx.customview:customview:1.0.0 -> NOT FOUND
+androidx.customview:customview:1.1.0 -> NOT FOUND
+androidx.databinding:databinding-adapters:8.2.2 -> NOT FOUND
+androidx.databinding:databinding-common:8.2.2 -> NOT FOUND
+androidx.databinding:databinding-compiler-common:8.2.2 -> NOT FOUND
+androidx.databinding:databinding-compiler:8.2.2 -> NOT FOUND
+androidx.databinding:databinding-ktx:8.2.2 -> NOT FOUND
+androidx.databinding:databinding-runtime:8.2.2 -> NOT FOUND
+androidx.databinding:viewbinding:8.2.2 -> NOT FOUND
+androidx.datastore:datastore-core:1.0.0 -> NOT FOUND
+androidx.datastore:datastore-preferences-core:1.0.0 -> NOT FOUND
+androidx.datastore:datastore-preferences:1.0.0 -> NOT FOUND
+androidx.datastore:datastore:1.0.0 -> NOT FOUND
+androidx.documentfile:documentfile:1.0.0 -> NOT FOUND
+androidx.drawerlayout:drawerlayout:1.0.0 -> NOT FOUND
+androidx.drawerlayout:drawerlayout:1.1.1 -> NOT FOUND
+androidx.dynamicanimation:dynamicanimation:1.0.0 -> NOT FOUND
+androidx.emoji2:emoji2-views-helper:1.4.0 -> NOT FOUND
+androidx.emoji2:emoji2:1.4.0 -> NOT FOUND
+androidx.emoji:emoji:1.1.0 -> NOT FOUND
+androidx.exifinterface:exifinterface:1.3.3 -> NOT FOUND
+androidx.fragment:fragment-ktx:1.3.2 -> NOT FOUND
+androidx.fragment:fragment-ktx:1.5.0 -> NOT FOUND
+androidx.fragment:fragment:1.5.1 -> NOT FOUND
+androidx.interpolator:interpolator:1.0.0 -> NOT FOUND
+androidx.legacy:legacy-support-core-ui:1.0.0 -> NOT FOUND
+androidx.legacy:legacy-support-core-utils:1.0.0 -> NOT FOUND
+androidx.lifecycle:lifecycle-common-java8:2.2.0 -> NOT FOUND
+androidx.lifecycle:lifecycle-common-java8:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-common:2.5.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-common:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-extensions:2.2.0 -> NOT FOUND
+androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-livedata-core:2.5.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-livedata-core:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-livedata-ktx:2.2.0 -> NOT FOUND
+androidx.lifecycle:lifecycle-livedata-ktx:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-livedata:2.0.0 -> NOT FOUND
+androidx.lifecycle:lifecycle-livedata:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-process:2.5.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-process:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-runtime-compose:2.6.0-alpha01 -> NOT FOUND
+androidx.lifecycle:lifecycle-runtime-compose:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-runtime-ktx:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-runtime:2.5.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-runtime:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-service:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0 -> NOT FOUND
+androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-viewmodel:2.5.1 -> NOT FOUND
+androidx.lifecycle:lifecycle-viewmodel:2.6.1 -> NOT FOUND
+androidx.loader:loader:1.0.0 -> NOT FOUND
+androidx.loader:loader:1.1.0 -> NOT FOUND
+androidx.localbroadcastmanager:localbroadcastmanager:1.0.0 -> NOT FOUND
+androidx.media:media:1.4.3 -> NOT FOUND
+androidx.metrics:metrics-performance:1.0.0-alpha04 -> NOT FOUND
+androidx.navigation:navigation-common-ktx:2.5.0 -> NOT FOUND
+androidx.navigation:navigation-common:2.5.0 -> NOT FOUND
+androidx.navigation:navigation-fragment-ktx:2.5.0 -> NOT FOUND
+androidx.navigation:navigation-fragment:2.5.0 -> NOT FOUND
+androidx.navigation:navigation-runtime-ktx:2.5.0 -> NOT FOUND
+androidx.navigation:navigation-runtime:2.5.0 -> NOT FOUND
+androidx.navigation:navigation-ui-ktx:2.5.0 -> NOT FOUND
+androidx.navigation:navigation-ui:2.5.0 -> NOT FOUND
+androidx.percentlayout:percentlayout:1.0.0 -> NOT FOUND
+androidx.preference:preference-ktx:1.1.1 -> NOT FOUND
+androidx.preference:preference:1.1.1 -> NOT FOUND
+androidx.preference:preference:1.2.0 -> NOT FOUND
+androidx.print:print:1.0.0 -> NOT FOUND
+androidx.profileinstaller:profileinstaller:1.3.1 -> NOT FOUND
+androidx.recyclerview:recyclerview:1.0.0 -> NOT FOUND
+androidx.recyclerview:recyclerview:1.3.0 -> NOT FOUND
+androidx.remotecallback:remotecallback:1.0.0-alpha02 -> NOT FOUND
+androidx.resourceinspection:resourceinspection-annotation:1.0.1 -> NOT FOUND
+androidx.room:room-common:2.6.0 -> NOT FOUND
+androidx.room:room-compiler-processing:2.6.0 -> NOT FOUND
+androidx.room:room-compiler:2.6.0 -> NOT FOUND
+androidx.room:room-ktx:2.6.0 -> NOT FOUND
+androidx.room:room-migration:2.6.0 -> NOT FOUND
+androidx.room:room-runtime:2.6.0 -> NOT FOUND
+androidx.savedstate:savedstate-ktx:1.2.1 -> NOT FOUND
+androidx.savedstate:savedstate:1.2.0 -> NOT FOUND
+androidx.savedstate:savedstate:1.2.1 -> NOT FOUND
+androidx.slice:slice-builders-ktx:1.0.0-alpha07 -> NOT FOUND
+androidx.slice:slice-builders:1.1.0-alpha01 -> NOT FOUND
+androidx.slice:slice-core:1.1.0-alpha01 -> NOT FOUND
+androidx.slidingpanelayout:slidingpanelayout:1.0.0 -> NOT FOUND
+androidx.slidingpanelayout:slidingpanelayout:1.2.0 -> NOT FOUND
+androidx.sqlite:sqlite-framework:2.4.0 -> NOT FOUND
+androidx.sqlite:sqlite:2.4.0 -> NOT FOUND
+androidx.startup:startup-runtime:1.1.1 -> NOT FOUND
+androidx.swiperefreshlayout:swiperefreshlayout:1.0.0 -> NOT FOUND
+androidx.test.espresso:espresso-contrib:3.1.0 -> NOT FOUND
+androidx.test.espresso:espresso-core:3.5.1 -> NOT FOUND
+androidx.test.espresso:espresso-idling-resource:3.5.1 -> NOT FOUND
+androidx.test.espresso:espresso-intents:3.5.1 -> NOT FOUND
+androidx.test.ext:junit-ktx:1.1.5 -> NOT FOUND
+androidx.test.ext:junit:1.1.5 -> NOT FOUND
+androidx.test.services:storage:1.4.2 -> NOT FOUND
+androidx.test.uiautomator:uiautomator:2.3.0 -> NOT FOUND
+androidx.test:annotation:1.0.1 -> NOT FOUND
+androidx.test:core:1.2.0 -> NOT FOUND
+androidx.test:core:1.5.0 -> NOT FOUND
+androidx.test:monitor:1.6.1 -> NOT FOUND
+androidx.test:rules:1.1.0 -> NOT FOUND
+androidx.test:rules:1.5.0 -> NOT FOUND
+androidx.test:runner:1.1.0 -> NOT FOUND
+androidx.test:runner:1.5.2 -> NOT FOUND
+androidx.tracing:tracing:1.0.0 -> NOT FOUND
+androidx.tracing:tracing:1.1.0 -> NOT FOUND
+androidx.transition:transition:1.0.0 -> NOT FOUND
+androidx.transition:transition:1.2.0 -> NOT FOUND
+androidx.transition:transition:1.4.1 -> NOT FOUND
+androidx.vectordrawable:vectordrawable-animated:1.1.0 -> NOT FOUND
+androidx.vectordrawable:vectordrawable:1.1.0 -> NOT FOUND
+androidx.versionedparcelable:versionedparcelable:1.1.1 -> NOT FOUND
+androidx.viewpager2:viewpager2:1.0.0 -> NOT FOUND
+androidx.viewpager:viewpager:1.0.0 -> NOT FOUND
+androidx.webkit:webkit:1.4.0 -> NOT FOUND
+androidx.window:window:1.0.0 -> NOT FOUND
+androidx.work:work-multiprocess:2.8.1 -> NOT FOUND
+androidx.work:work-runtime-ktx:2.8.1 -> NOT FOUND
+androidx.work:work-runtime:2.8.1 -> NOT FOUND
+androidx.work:work-rxjava2:2.8.1 -> NOT FOUND
+androidx.work:work-testing:2.8.1 -> NOT FOUND
+com.airbnb.android:lottie-compose:6.0.0 -> 6.5.2
+com.airbnb.android:lottie:5.1.1 -> 6.5.2
+com.airbnb.android:lottie:6.1.0 -> 6.5.2
+com.almworks.sqlite4java:sqlite4java:1.0.392 -> UP TO DATE
+com.amazon.identity:auth-jetified:1.3.0 -> NOT FOUND
+com.android.databinding:baseLibrary:8.2.2 -> 2.3.0
+com.android.databinding:baseLibrary:androidx.databinding -> 2.3.0
+com.android.installreferrer:installreferrer:2.1 -> NOT FOUND
+com.android.installreferrer:installreferrer:2.2 -> NOT FOUND
+com.android.tools.build.jetifier:jetifier-core:1.0.0-beta10 -> NOT FOUND
+com.android.tools:annotations:31.2.2 -> 25.3.0
+com.android.tools:desugar_jdk_libs:1.2.2 -> NOT FOUND
+com.android.tools:desugar_jdk_libs_configuration:1.2.2 -> NOT FOUND
+com.android.volley:volley:1.2.1 -> UP TO DATE
+com.appsflyer:af-android-sdk:6.10.1 -> 6.15.1
+com.caverock:androidsvg:1.4 -> UP TO DATE
+com.clevertap.android:clevertap-android-sdk:6.2.1 -> 7.0.1
+com.clevertap.android:clevertap-signedcall-sdk:0.0.7.1 -> 0.0.7.2
+com.clevertap.android:push-templates:1.2.3 -> 1.2.4
+com.dropbox.mobile.store:multicast:4.0.5 -> UP TO DATE
+com.dropbox.mobile.store:store4:4.0.5 -> UP TO DATE
+com.facebook.device.yearclass:yearclass:2.1.0 -> UP TO DATE
+com.facebook.fbjni:fbjni:0.3.0 -> 0.6.0
+com.facebook.fresco:drawee:2.5.0 -> 3.2.0
+com.facebook.fresco:fbcore:2.5.0 -> 3.2.0
+com.facebook.fresco:fresco:2.5.0 -> 3.2.0
+com.facebook.fresco:imagepipeline-native:2.5.0 -> 3.2.0
+com.facebook.fresco:imagepipeline-okhttp3:2.5.0 -> 3.2.0
+com.facebook.fresco:imagepipeline:2.5.0 -> 3.2.0
+com.facebook.fresco:memory-type-ashmem:2.5.0 -> 3.2.0
+com.facebook.fresco:memory-type-java:2.5.0 -> 3.2.0
+com.facebook.fresco:memory-type-native:2.5.0 -> 3.2.0
+com.facebook.fresco:middleware:2.5.0 -> 3.2.0
+com.facebook.fresco:nativeimagefilters:2.5.0 -> 3.2.0
+com.facebook.fresco:nativeimagetranscoder:2.5.0 -> 3.2.0
+com.facebook.fresco:soloader:2.5.0 -> 3.2.0
+com.facebook.fresco:ui-common:2.5.0 -> 3.2.0
+com.facebook.infer.annotation:infer-annotation:0.18.0 -> UP TO DATE
+com.facebook.react:hermes-android:0.72.4 -> 0.76.0-rc.1
+com.facebook.react:hermes-engine:+ -> 0.71.0-rc.0
+com.facebook.react:hermes-engine:com.facebook.react -> 0.71.0-rc.0
+com.facebook.react:react-android:0.72.4 -> 0.76.0-rc.1
+com.facebook.react:react-native:com.facebook.react -> 0.71.0-rc.0
+com.facebook.shimmer:shimmer:0.5.0 -> UP TO DATE
+com.facebook.soloader:annotation:0.10.4 -> 0.12.1
+com.facebook.soloader:nativeloader:0.10.4 -> 0.12.1
+com.facebook.soloader:soloader:0.10.4 -> 0.12.1
+com.facebook.yoga:proguard-annotations:1.19.0 -> UP TO DATE
+com.github.bumptech.glide:annotations:4.15.1 -> 5.0.0-rc01
+com.github.bumptech.glide:avif-integration:4.15.1 -> 5.0.0-rc01
+com.github.bumptech.glide:compiler:4.15.1 -> 5.0.0-rc01
+com.github.bumptech.glide:disklrucache:4.15.1 -> 5.0.0-rc01
+com.github.bumptech.glide:gifdecoder:4.15.1 -> 5.0.0-rc01
+com.github.bumptech.glide:okhttp3-integration:4.15.1 -> 5.0.0-rc01
+com.github.bumptech.glide:recyclerview-integration:4.15.1 -> 5.0.0-rc01
+com.github.chrisbanes:PhotoView:2.3.0 -> NOT FOUND
+com.github.henninghall:numberpickerview:v1.1.5 -> NOT FOUND
+com.github.mishrabhilash.material-dialogs:core:3.3.2 -> NOT FOUND
+com.github.rubensousa:gravitysnaphelper:2.2.2 -> UP TO DATE
+com.github.stephenc.jcip:jcip-annotations:1.0-1 -> UP TO DATE
+com.github.tbruyelle:rxpermissions:0.11 -> NOT FOUND
+com.google.accompanist:accompanist-drawablepainter:0.23.1 -> 0.36.0
+com.google.accompanist:accompanist-flowlayout:0.24.9-beta -> 0.36.0
+com.google.accompanist:accompanist-pager:0.24.13-rc -> 0.36.0
+com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:2.0 -> 2.1
+com.google.android.datatransport:transport-api:3.0.0 -> NOT FOUND
+com.google.android.datatransport:transport-api:3.1.0 -> NOT FOUND
+com.google.android.datatransport:transport-backend-cct:3.1.2 -> NOT FOUND
+com.google.android.datatransport:transport-backend-cct:3.1.9 -> NOT FOUND
+com.google.android.datatransport:transport-runtime:3.1.2 -> NOT FOUND
+com.google.android.datatransport:transport-runtime:3.1.9 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-common:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-common:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-core:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-core:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-dash:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-dash:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-database:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-database:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-datasource:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-datasource:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-decoder:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-decoder:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-extractor:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-extractor:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-hls:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-hls:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-rtsp:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-rtsp:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-ui:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer-ui:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:exoplayer:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:exoplayer:2.17.1 -> NOT FOUND
+com.google.android.exoplayer:extension-okhttp:2.17.0 -> NOT FOUND
+com.google.android.exoplayer:extension-okhttp:2.17.1 -> NOT FOUND
+com.google.android.flexbox:flexbox:3.0.0 -> NOT FOUND
+com.google.android.gms:play-services-ads-identifier:18.0.0 -> NOT FOUND
+com.google.android.gms:play-services-ads-identifier:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-analytics-impl:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-analytics:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-appset:16.1.0 -> NOT FOUND
+com.google.android.gms:play-services-auth-api-phone:17.1.0 -> NOT FOUND
+com.google.android.gms:play-services-auth-api-phone:18.0.2 -> NOT FOUND
+com.google.android.gms:play-services-auth-base:18.0.10 -> NOT FOUND
+com.google.android.gms:play-services-auth:21.2.0 -> NOT FOUND
+com.google.android.gms:play-services-base:17.0.0 -> NOT FOUND
+com.google.android.gms:play-services-base:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-base:18.5.0 -> NOT FOUND
+com.google.android.gms:play-services-basement:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-basement:18.4.0 -> NOT FOUND
+com.google.android.gms:play-services-cloud-messaging:17.2.0 -> NOT FOUND
+com.google.android.gms:play-services-cronet:18.0.1 -> NOT FOUND
+com.google.android.gms:play-services-fido:20.0.1 -> NOT FOUND
+com.google.android.gms:play-services-identity:17.0.0 -> NOT FOUND
+com.google.android.gms:play-services-location:21.0.1 -> NOT FOUND
+com.google.android.gms:play-services-maps:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-measurement-api:20.1.0 -> NOT FOUND
+com.google.android.gms:play-services-measurement-base:20.1.0 -> NOT FOUND
+com.google.android.gms:play-services-measurement-impl:20.1.0 -> NOT FOUND
+com.google.android.gms:play-services-measurement-sdk-api:20.1.0 -> NOT FOUND
+com.google.android.gms:play-services-measurement-sdk:20.1.0 -> NOT FOUND
+com.google.android.gms:play-services-measurement:20.1.0 -> NOT FOUND
+com.google.android.gms:play-services-stats:17.0.2 -> NOT FOUND
+com.google.android.gms:play-services-stats:17.1.0 -> NOT FOUND
+com.google.android.gms:play-services-tagmanager-api:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-tagmanager-v4-impl:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-tagmanager:18.1.0 -> NOT FOUND
+com.google.android.gms:play-services-tasks:18.0.2 -> NOT FOUND
+com.google.android.gms:play-services-tasks:18.2.0 -> NOT FOUND
+com.google.android.libraries.places:places:2.6.0 -> NOT FOUND
+com.google.android.material:material:1.0.0 -> NOT FOUND
+com.google.android.material:material:1.4.0-beta01 -> NOT FOUND
+com.google.android.play:app-update-ktx:2.1.0 -> NOT FOUND
+com.google.android.play:app-update:2.1.0 -> NOT FOUND
+com.google.android.play:core-common:2.0.4 -> NOT FOUND
+com.google.android.play:feature-delivery-ktx:2.1.0 -> NOT FOUND
+com.google.android.play:feature-delivery:2.1.0 -> NOT FOUND
+com.google.android.play:integrity:1.4.0 -> NOT FOUND
+com.google.android.play:review-ktx:2.0.1 -> NOT FOUND
+com.google.android.play:review:2.0.1 -> NOT FOUND
+com.google.api.grpc:proto-google-common-protos:2.32.0 -> 2.44.0
+com.google.auto.value:auto-value-annotations:1.10.4 -> 1.11.0
+com.google.auto.value:auto-value-annotations:1.6.2 -> 1.11.0
+com.google.auto.value:auto-value-annotations:1.6.3 -> 1.11.0
+com.google.auto:auto-common:0.10 -> 1.2.2
+com.google.auto:auto-common:0.11 -> 1.2.2
+com.google.code.findbugs:jsr305:3.0.2 -> UP TO DATE
+com.google.code.gson:gson:2.10 -> 2.11.0
+com.google.code.gson:gson:2.10.1 -> 2.11.0
+com.google.code.gson:gson:2.8.5 -> 2.11.0
+com.google.dagger:dagger-android-processor:2.48 -> 2.52
+com.google.dagger:dagger-android-support:2.48 -> 2.52
+com.google.dagger:dagger-android:2.48 -> 2.52
+com.google.dagger:dagger-compiler:2.48 -> 2.52
+com.google.dagger:dagger-lint-aar:2.48 -> 2.52
+com.google.dagger:dagger-producers:2.48 -> 2.52
+com.google.dagger:dagger-spi:2.48 -> 2.52
+com.google.dagger:dagger:2.48 -> 2.52
+com.google.devtools.ksp:symbol-processing-api:1.9.0-1.0.13 -> 2.1.0-Beta1-1.0.25
+com.google.errorprone:error_prone_annotation:2.19.1 -> 2.32.0
+com.google.errorprone:error_prone_annotations:2.11.0 -> 2.32.0
+com.google.errorprone:error_prone_annotations:2.26.0 -> 2.32.0
+com.google.errorprone:javac-shaded:9-dev-r4023-3 -> UP TO DATE
+com.google.firebase:firebase-abt:21.1.1 -> NOT FOUND
+com.google.firebase:firebase-analytics-ktx:20.1.0 -> NOT FOUND
+com.google.firebase:firebase-analytics:20.1.0 -> NOT FOUND
+com.google.firebase:firebase-annotations:16.0.0 -> NOT FOUND
+com.google.firebase:firebase-annotations:16.2.0 -> NOT FOUND
+com.google.firebase:firebase-appindexing:20.0.0 -> NOT FOUND
+com.google.firebase:firebase-common-ktx:20.0.0 -> NOT FOUND
+com.google.firebase:firebase-common-ktx:21.0.0 -> NOT FOUND
+com.google.firebase:firebase-common:20.0.0 -> NOT FOUND
+com.google.firebase:firebase-common:21.0.0 -> NOT FOUND
+com.google.firebase:firebase-components:17.0.0 -> NOT FOUND
+com.google.firebase:firebase-components:18.0.0 -> NOT FOUND
+com.google.firebase:firebase-config-interop:16.0.0 -> NOT FOUND
+com.google.firebase:firebase-config:21.6.0 -> NOT FOUND
+com.google.firebase:firebase-crashlytics-ktx:18.2.8 -> NOT FOUND
+com.google.firebase:firebase-crashlytics:18.2.8 -> NOT FOUND
+com.google.firebase:firebase-datatransport:18.2.0 -> NOT FOUND
+com.google.firebase:firebase-encoders-json:18.0.0 -> NOT FOUND
+com.google.firebase:firebase-encoders-json:18.0.1 -> NOT FOUND
+com.google.firebase:firebase-encoders-proto:16.0.0 -> NOT FOUND
+com.google.firebase:firebase-encoders:17.0.0 -> NOT FOUND
+com.google.firebase:firebase-iid-interop:17.1.0 -> NOT FOUND
+com.google.firebase:firebase-installations-interop:17.0.0 -> NOT FOUND
+com.google.firebase:firebase-installations-interop:17.1.1 -> NOT FOUND
+com.google.firebase:firebase-installations:17.0.0 -> NOT FOUND
+com.google.firebase:firebase-installations:17.2.0 -> NOT FOUND
+com.google.firebase:firebase-measurement-connector:19.0.0 -> NOT FOUND
+com.google.firebase:firebase-messaging:24.0.0 -> NOT FOUND
+com.google.googlejavaformat:google-java-format:1.5 -> 1.23.0
+com.google.guava:failureaccess:1.0.1 -> 1.0.2
+com.google.guava:guava:31.1-android -> 33.3.0-jre

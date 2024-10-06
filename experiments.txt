@@ -1,0 +1,21 @@
+androidx.vectordrawable:vectordrawable:1.1.0 -> 1.2.0
+androidx.versionedparcelable:versionedparcelable:1.1.1 -> 1.2.0
+androidx.viewpager2:viewpager2:1.0.0 -> 1.1.0
+androidx.viewpager:viewpager:1.0.0 -> UP TO DATE
+androidx.webkit:webkit:1.4.0 -> 1.9.0
+androidx.window:window:1.0.0 -> 1.3.0
+androidx.work:work-multiprocess:2.8.1 -> 2.9.1
+androidx.work:work-runtime-ktx:2.8.1 -> 2.9.1
+androidx.work:work-runtime:2.8.1 -> 2.9.1
+androidx.work:work-rxjava2:2.8.1 -> 2.9.1
+androidx.work:work-testing:2.8.1 -> 2.9.1
+com.airbnb.android:lottie-compose:6.0.0 -> 6.5.2
+com.airbnb.android:lottie:5.1.1 -> 6.5.2
+com.airbnb.android:lottie:6.1.0 -> 6.5.2
+com.almworks.sqlite4java:sqlite4java:1.0.392 -> UP TO DATE
+com.amazon.identity:auth-jetified:1.3.0 -> NOT_FOUND
+com.android.databinding:baseLibrary:8.2.2 -> 2.3.0
+com.android.installreferrer:installreferrer:2.1 -> 2.2
+com.android.installreferrer:installreferrer:2.2 -> UP TO DATE
+com.android.tools.build.jetifier:jetifier-core:1.0.0-beta10 -> 0.0.1
+androidx.activity:activity-compose:1.7.0 -> 1.9.2
