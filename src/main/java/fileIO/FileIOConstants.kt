@@ -5,6 +5,8 @@ object FileIOConstants {
     const val DEFAULT_OUTPUT_FILE = "output.txt"
     const val EXPERIMENTAL_OUTPUT_FILE = "experiments.txt"
 
+    private fun getOutputFile() = EXPERIMENTAL_OUTPUT_FILE
+
     fun getDefaultDependencyListProvider(): DependencyInputProvider = PlainTextAndroidDependencyProvider()
-    fun getDefaultOutputHandler(): OutputHandler = DefaultOutputHandler(EXPERIMENTAL_OUTPUT_FILE)
+    fun getDefaultOutputHandler(): OutputHandler = DefaultOutputHandler(getOutputFile())
 }
